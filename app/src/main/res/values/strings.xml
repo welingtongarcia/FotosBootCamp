@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FotosBootCamp</string>
+    <string name="selected_image">Imagem a ser selecionada pelo usuario</string>
+    <string name="image_slc">Selecione uma imagem</string>
+</resources>
